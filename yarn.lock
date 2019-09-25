@@ -1682,7 +1682,7 @@ ejs@^2.6.2:
   resolved "https://registry.yarnpkg.com/ejs/-/ejs-2.7.1.tgz#5b5ab57f718b79d4aca9254457afecd36fa80228"
   integrity sha512-kS/gEPzZs3Y1rRsbGX4UOSjtP/CeJP0CxSNZHYxGfVM/VgLcv0ZqM7C45YyTj2DI2g7+P9Dd24C+IMIg6D0nYQ==
 
-electron-builder@21.2.0:
+electron-builder@^21.2.0:
   version "21.2.0"
   resolved "https://registry.yarnpkg.com/electron-builder/-/electron-builder-21.2.0.tgz#b68ec4def713fc0b8602654ce842f972432f50c5"
   integrity sha512-x8EXrqFbAb2L3N22YlGar3dGh8vwptbB3ovo3OF6K7NTpcsmM2zEoJv7GhFyX73rNzSG2HaWpXwGAtOp2JWiEw==
@@ -4898,7 +4898,7 @@ registry-url@^5.0.0:
   dependencies:
     rc "^1.2.8"
 
-remixd@^0.1.8-alpha.7:
+remixd@^0.1.8-alpha.10:
   version "0.1.8-alpha.10"
   resolved "https://registry.yarnpkg.com/remixd/-/remixd-0.1.8-alpha.10.tgz#3feec342f157f3c0de808e918b5437a0f9875a2a"
   integrity sha512-Rjj4jYVNozIzcBCYxXwLMbsrvnjSb1wIEjh47XRsUH3T46gjBqjEzuQMlpkO0vGSL1YV9qQkuK/RNkro35KWgA==
